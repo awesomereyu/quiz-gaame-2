@@ -1,2 +1,3 @@
 # quiz-gaame-2
-idk wat to put sooo yea
+This is the Quiz Game 2 project code that I edited.
+
